@@ -1,2 +1,1 @@
-# madhavrajk.github.io
-Madhav's Personal Website
+# Madhav's Personal Website
